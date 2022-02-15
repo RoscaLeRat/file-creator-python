@@ -26,3 +26,5 @@ if H == 9:
     print("Fermeture de Pack script.")
     sleep(1)
     exit()
+if H > 4:
+    exit()
